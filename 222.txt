@@ -1,0 +1,7 @@
+﻿node populatedb mongodb+srv://amirfs:partab2000@cluster0-d9ci5.mongodb.net/test?retryWrites=true&w=majority
+
+SET DEBUG=news:* & npm run devstart
+
+node populatedb mongodb+srv://amirfs:partab2000@cluster0-d9ci5.mongodb.net/test?retryWrites=true&w=majority
+
+/ab?cd'
